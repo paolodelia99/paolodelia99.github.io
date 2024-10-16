@@ -1,20 +1,17 @@
 languages:
+  - item: C++ (17/20/23)
   - item: Python
   - item: SQL
-  - item: C++
+  - item: Bash/Batch scripting
 
 libraries:
-  - item: NumPy
-  - item: Pandas
-  - item: PyTorch
-  - item: Matplotlib
-  - item: scipy
-  - item: scikit learn
+  - item: NumPy/ Pandas/ Matplotlib
+  - item: Jax
+  - item: C++ std
+  - item: gymnasium
+  - item: Gtest/ Pytest
 
 tools:
-  - item: Jupyter Notebook
-  - item: Conda
-  - item: Bash
-  - item: Git & Github
-  - item: Postman
-  - item: MySQL
+  - item: Make & CMake
+  - item: Docker & Kubernetes
+  - item: Bamboo, GitHub actions

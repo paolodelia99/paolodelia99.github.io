@@ -1,12 +1,11 @@
 # Site settings
 name: Paolo D'Elia
-title: Paolo D'Elia | Data Scientist
-description: Let's put the option apart and let's instead the data talk by itself
+title: Paolo D'Elia | Quant Developer
+description: SWE working in the finance industry
 url: https://paolodelia99.github.io/
 baseurl: ''
 email: paolo.delia99@gmail.com
 cover: https://paolodelia99.github.io/img/og.png
-logo: https://paolodelia99.github.io/img/emojis/bar-chart-whatsapp.png
 resume: https://paolodelia99.github.io/resume.pdf
 social:
   - title: email
